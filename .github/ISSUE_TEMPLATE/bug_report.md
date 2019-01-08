@@ -10,6 +10,17 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
+When requesting features and changes, clearly describe the problem to be solved instead of prescribing a solution.
+
+Bad — “Make the button red.”
+Good — “The user doesn’t understand that deletion is irreversible.”
+
+
+Try following this format:
+
+“As a [type of user] I want [my goal] so that [my reason].”
+
+
 **To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
